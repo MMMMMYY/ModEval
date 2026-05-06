@@ -1,0 +1,9 @@
+Condition,SSIM mean,SSIM std,LPIPS mean,LPIPS std
+subject,0.2535,0.0846,0.7065,0.0589
+subj+all,0.2748,0.0944,0.6606,0.0522
+subj+Quality,0.2517,0.0766,0.6845,0.0561
+subj+Artist,0.2594,0.0676,0.6929,0.0464
+subj+Atmosphere,0.2806,0.092,0.6809,0.0641
+subj+Trending,0.2762,0.0959,0.6867,0.0655
+subj+Medium,0.2874,0.0911,0.6922,0.0611
+subj+Movement,0.2684,0.0795,0.6875,0.0583

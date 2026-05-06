@@ -1,0 +1,53 @@
+Targeted Repeating prompts (n=10)
+======================================================================
+
+── [01] id=19239
+ORIGINAL : god of the forest, 30 years old, rugged, male, gorgeous gorgeous gorgeous, detailed face face face face, amazing, thighs thighs thighs thighs, muscular, intricate, highly detailed, digital painting, artstation, concept art, sharp focus, illustration, art by greg rutkowski and alphonse mucha
+  subject         : god of the forest, male
+  subj+Repeating  : god of the forest, male, gorgeous gorgeous gorgeous, detailed face face face face, thighs thighs thi…
+
+── [02] id=37362
+ORIGINAL : a woman with blue hair sitting underwater, a beautiful anime drawing by yuumei, featured on pixiv, rayonism, pixiv, seapunk, very anime anime!! detailed
+  subject         : a woman with blue hair sitting underwater, a, ixiv
+  subj+Repeating  : a woman with blue hair sitting underwater, a, ixiv, very anime anime!!
+
+── [03] id=59380
+ORIGINAL : female demon by Felix englund, full body, detailed, 8k, dark atmosphere,  trending on artstation, felix englund style, high resolution, face face, full body, background
+  subject         : female demon, full body
+  subj+Repeating  : female demon, full body, face face
+
+── [04] id=67363
+ORIGINAL : portrait of a rugged ranger, muscular, upper body, face face face face, hairy torso, detailed detailed detailed hands hands hands hands, D&D, fantasy, bare bare bare bare thighs thighs thighs intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by greg rutkowski
+  subject         : portrait of a rugged ranger
+  subj+Repeating  : portrait of a rugged ranger, face face face face, detailed detailed detailed hands hands hands hands…
+
+── [05] id=43110
+ORIGINAL : god of the forest, 30 years old, rugged, male, gorgeous gorgeous gorgeous, detailed face face face face, amazing, thighs thighs thighs thighs, muscular, intricate, highly detailed, digital painting, artstation, concept art, sharp focus, illustration, by greg rutkowski
+  subject         : god of the forest, male
+  subj+Repeating  : god of the forest, male, gorgeous gorgeous gorgeous, detailed face face face face, thighs thighs thi…
+
+── [06] id=19768
+ORIGINAL : a woman with blue hair sitting underwater, a beautiful anime drawing by yuumei, featured on pixiv, rayonism, pixiv, seapunk, very anime anime!! detailed
+  subject         : a woman with blue hair sitting underwater, a, ixiv
+  subj+Repeating  : a woman with blue hair sitting underwater, a, ixiv, very anime anime!!
+
+── [07] id=23579
+ORIGINAL : minimalist artificial intelligence, concept art, 3 d render in octane, zbrush, perfect composition, beautiful detailed intricate insanely detailed octane render trending on artstation, 9 9 designs, 8 k artistic photography, photorealistic, soft natural volumetric cinematic perfect light, award - winning logo design, masterpiece
+  subject         : minimalist artificial intelligence
+  subj+Repeating  : minimalist artificial intelligence, 9 9 designs
+
+── [08] id=56842
+ORIGINAL : A lonely american soldier beholds the vastness of the jungle at the Vietnam War, fire and grey and white mist, boixcar style, vaporwave vaporwave vaporwave oil on canvas cover art with warm and vibrant colors, cinematic lighting, art by Stanley ‘Artgerm’ Lau, Greg Rutkowski and Alex Ross, award-winning masterpiece with incredible and beautiful details digital art, trending on artstation, smooth, HD, 4K
+  subject         : A lonely american soldier beholds the vastness of the jungle at the Vietnam War
+  subj+Repeating  : A lonely american soldier beholds the vastness of the jungle at the Vietnam War, vaporwave vaporwave…
+
+── [09] id=17361
+ORIGINAL : foxmask eating crayons up nose hyper hyper hyper hyper realism realism realism 2 2 2 2 k most high def close up drool filled with joy and mischief in the style of kawase hasui james jean, artstation trending, 8 k, 3 d render, photorealistic, volumetric lighting caustics, black and white, detailed af af af detailed af af
+  subject         : foxmas k, f
+  subj+Repeating  : foxmas k, f, hyper hyper hyper hyper, realism realism realism, 2 2 2 2, detailed af af af, detailed …
+
+── [10] id=66618
+ORIGINAL : magic mushrooms growing inside a human head side on made out of glass, 8 k detailed photograph, unreal engine, trending on artstation, emotional surrealist art, very very beautiful
+  subject         : magic mushrooms growing inside a human head side on made out of glass
+  subj+Repeating  : magic mushrooms growing inside a human head side on made out of glass, very very beautiful
+

@@ -1,0 +1,17 @@
+Unified Category,Source,Original Name,Description
+Artist,CLIP Interrogator,Artist,named artist whose style directs the visual output
+Artist,Hao et al.,Stylistic descriptors,style modifier token including artist references and style names
+Artist,Liu & Chilton,Artistic style,named artist or art movement style keyword
+Artist,Oppenlaender,Style modifiers,modifier specifying an artistic style such as a named artist or artistic medium
+Atmosphere,Hao et al.,Thematic/mood terms,thematic or atmosphere token establishing emotional tone and narrative mood
+Atmosphere,Liu & Chilton,Aesthetic descriptors,atmospheric or mood-related keyword evoking emotional quality
+Magic,Oppenlaender,Magic terms,evocative or mystical term introducing creative unpredictability
+Medium,CLIP Interrogator,Medium,artistic medium or material used in image creation
+Medium,Liu & Chilton,Technical medium,physical or digital artistic medium and technique
+Movement,CLIP Interrogator,Movement,artistic movement or historical style school
+Quality,CLIP Interrogator,Flavor,stylistic or thematic detail adding richness and precision
+Quality,Hao et al.,Quality enhancers,quality modifier token improving technical fidelity and aesthetic appeal
+Quality,Liu & Chilton,Quality terms,"technical keyword controlling detail, resolution, or rendering quality"
+Quality,Oppenlaender,Quality boosters,modifier indicating desired image quality or level of detail
+Repeating,Oppenlaender,Repeating terms,word or phrase repeated to intensify a particular quality
+Trending,CLIP Interrogator,Trending,platform or community aesthetic standard signalling contemporary visual popularity

@@ -1,0 +1,42 @@
+══════════════════════════════════════════════════════════════════════
+SECTION 4.3 — STEERING MODIFIER IDENTIFICATION RESULTS
+══════════════════════════════════════════════════════════════════════
+
+── Step 1: Candidate Categories (f_p > 20%) ─────────────────────────
+  Candidates     : ['Quality', 'Artist', 'Atmosphere', 'Trending', 'Medium', 'Movement']
+  Non-candidates : ['Repeating', 'Magic']
+
+── Step 2: Image-level Validation (Wilcoxon, SSIM) ──────────────────
+  Category        p-value    sig
+  ────────────────────────────────
+  Quality          0.0668      ✗
+  Artist           0.0197      ✓
+  Atmosphere       0.0019      ✓
+  Trending         0.0000      ✓
+  Medium           0.0002      ✓
+  Movement         0.4266      ✗
+
+── Step 2: Semantic-level Validation (MSCS, t-test) ─────────────────
+  Category         MSCS    t-test p    sig
+  ──────────────────────────────────────────
+  Artist         0.0358         0.0      ✓
+  Medium          0.019      0.0023      ✓
+  Movement       0.0078      0.0008      ✗
+  Trending       0.0293         0.0      ✓
+  Quality        0.0092         0.0      ✗
+  Atmosphere     0.0055      0.0041      ✓
+  Repeating         N/A         N/A      ✗
+  Magic             N/A         N/A      ✗
+
+── Confirmed Steering Modifiers ─────────────────────────────────────
+  ['Artist', 'Medium', 'Trending', 'Atmosphere']
+
+── Frequency–Influence Spearman Correlation ─────────────────────────
+  ρ = -0.2000,  p = 0.7040
+  ✗ Not significant  (expected ρ > 0.7)
+
+── Output Files ──────────────────────────────────────────────────────
+  Table 1 → outputs/4_3/table1_frequency.csv
+  Table 2 → outputs/4_3/table2_image_metrics_sdxl.csv
+  Table 3 → outputs/4_3/table3_mscs_sdxl.csv
+══════════════════════════════════════════════════════════════════════

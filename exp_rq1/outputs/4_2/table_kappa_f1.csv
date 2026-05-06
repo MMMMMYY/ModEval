@@ -1,0 +1,9 @@
+Category,Precision,Recall,F1,Support
+Artist,0.796,1.0,0.886,156
+Medium,0.785,1.0,0.879,124
+Movement,0.786,1.0,0.88,110
+Trending,0.843,1.0,0.915,102
+Quality,0.812,1.0,0.896,478
+Atmosphere,0.804,0.994,0.889,161
+Repeating,0.846,1.0,0.917,22
+Magic,0.737,1.0,0.848,28

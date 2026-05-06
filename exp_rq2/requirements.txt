@@ -1,0 +1,24 @@
+# RQ2 dependencies (social-risk evaluation)
+# Layered on top of exp_rq1/requirements.txt; installing the top-level
+# requirements.txt is sufficient.
+
+# Generation
+torch>=2.3.0
+diffusers>=0.30.0
+transformers>=4.44.0
+accelerate>=0.33.0
+Pillow>=10.4.0
+
+# 5.1 — Bias (FairFace ViT classifiers via transformers, no extra deps)
+# 5.2 — Misuse  (prithivMLmods/Deep-Fake-Detector-v2-Model via transformers)
+# 5.3 — Safety
+nudenet>=3.4.2            # sexually-explicit detector
+open-clip-torch>=2.26.1   # backbone used by Q16 gore detector
+# Q16 source must be cloned separately; see run_q16_standalone.py header.
+
+# Stats / IO
+numpy>=1.26.0
+scipy>=1.13.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+tqdm>=4.66.0

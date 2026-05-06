@@ -1,0 +1,33 @@
+# RQ1 dependencies
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+scipy>=1.13.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# LLM classification
+transformers>=4.44.0
+accelerate>=0.33.0
+torch>=2.3.0
+
+# Image generation & evaluation
+diffusers>=0.30.0
+torchvision>=0.18.0
+Pillow>=10.4.0
+
+# Image similarity metrics
+scikit-image>=0.24.0       # SSIM
+lpips>=0.1.4               # LPIPS
+clean-fid>=0.1.35          # FID via cleanfid
+
+# CLIP
+open-clip-torch>=2.26.1
+
+# Dataset
+datasets>=2.20.0
+
+# Misc
+tqdm>=4.66.0
+jsonlines>=4.0.0

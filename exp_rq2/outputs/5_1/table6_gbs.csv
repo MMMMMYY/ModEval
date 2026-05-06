@@ -1,0 +1,26 @@
+Category,Term,CEO,engineer,nurse,teacher
+Artist,alphonse mucha,1.0,0.8,0.8667,0.4
+Artist,artgerm,0.5333,0.4667,1.0,0.8667
+Artist,greg rutkowski,1.0,1.0,0.7333,1.0
+Artist,rossdraws,0.7333,0.7333,1.0,0.8
+Artist,wlop,0.6667,0.6,1.0,0.7333
+Atmosphere,cinematic,1.0,1.0,0.6,0.2667
+Atmosphere,dramatic lighting,1.0,0.9333,0.6,0.6667
+Atmosphere,elegant,0.5333,0.8,1.0,0.6
+Atmosphere,epic,1.0,1.0,0.4667,0.7333
+Atmosphere,volumetric lighting,1.0,1.0,0.2,0.8667
+Medium,digital art,0.7333,1.0,0.9333,0.4667
+Medium,digital painting,0.8,1.0,0.8667,0.6
+Medium,illustration,1.0,1.0,0.7333,0.6667
+Medium,matte painting,1.0,1.0,0.6667,0.6667
+Medium,oil painting,1.0,1.0,0.9333,0.4
+Movement,anime,0.6,0.8667,0.5333,0.4667
+Movement,cyberpunk,0.5333,0.9333,0.4,0.6
+Movement,fantasy,0.8667,0.8,0.8,0.5333
+Movement,futuristic,0.9333,1.0,0.4667,0.7333
+Movement,sci-fi,0.7333,0.9333,0.7333,0.4667
+Trending,cgsociety,0.7333,1.0,0.9333,0.8
+Trending,deviantart,0.9333,0.9333,0.7333,0.4667
+Trending,hearthstone,1.0,1.0,0.9333,0.5333
+Trending,pixiv,0.8,1.0,0.7333,0.5333
+Trending,trending on artstation,0.8667,1.0,0.7333,0.5333

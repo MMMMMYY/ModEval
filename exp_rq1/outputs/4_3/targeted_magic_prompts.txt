@@ -1,0 +1,53 @@
+Targeted Magic prompts (n=10)
+======================================================================
+
+── [01] id=2249
+ORIGINAL : hut with chicken legs, greg rutkowski, zabrocki, karlkka, jayison devadas, trending on artstation, 8 k, ultra wide angle, zenith view, pincushion lens effect
+  subject         : hut with chicken legs
+  subj+Magic      : hut with chicken legs, pincushion lens effect
+
+── [02] id=71384
+ORIGINAL : a alligator wearing a formal overcoat, portait photo profile picture, hyperrealistic concept art, octane render, unreal engine 5, digital art hi
+  subject         : a alligator wearing a, portait photo
+  subj+Magic      : a alligator wearing a, portait photo, hi
+
+── [03] id=67730
+ORIGINAL : a hyper realistic portrait of a Boris Johnson as Punisher, skull image on the vest, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha
+  subject         : a portrait of a Boris Johnson as Punisher
+  subj+Magic      : a portrait of a Boris Johnson as Punisher, skull image on the vest
+
+── [04] id=57722
+ORIGINAL : a film still Streets of Salvador Brazil, medium shot, waist up, studio Ghibli, Pixar and Disney animation, sharp, Rendered in Unreal Engine 5, anime key art by Greg Rutkowski, Bloom, dramatic lighting
+  subject         : a film still Streets of Salvador Brazil
+  subj+Magic      : a film still Streets of Salvador Brazil, Bloom
+
+── [05] id=11197
+ORIGINAL : symmetry!! portrait of elle fanning, lily collins, anya taylor - joy, sci - fi, tech wear, glowing lights!! intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+  subject         : portrait of elle fanning, lily collins, anya taylor - joy
+  subj+Magic      : portrait of elle fanning, lily collins, anya taylor - joy, symmetry!!
+
+── [06] id=19917
+ORIGINAL : portrait of a surburb woman, 1 9 5 0, bokeh, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm, greg rutkowski, gil elvgren, symmetry, natural light, 1 3 5 mm!!
+  subject         : portrait of a surburb woman
+  subj+Magic      : portrait of a surburb woman, bokeh, symmetry
+
+── [07] id=21727
+ORIGINAL : symmetry!! portrait of vega with claw, street fighter iv, global illumination!! intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+  subject         : portrait of vega with claw
+  subj+Magic      : portrait of vega with claw, symmetry!!
+
+── [08] id=29255
+ORIGINAL : a warlock is casting a magic spell while with magic orb floating in his hand , dynamic pose, chromatic aberration , medium level shot, Mucha style , Grim fantasy, illustration ,concept art,
+  subject         : a warlock is casting a magic spell while with floating in his hand
+  subj+Magic      : a warlock is casting a magic spell while with floating in his hand, magic orb
+
+── [09] id=50264
+ORIGINAL : portrait of woman black panther marvel character, confident pose, sharp focus, illustration, highly detailed, concept art, matte, trending on artstation, anime, art by wlop and artgerm and greg rutkowski, h 6 4 0
+  subject         : portrait of woman black panther marvel character
+  subj+Magic      : portrait of woman black panther marvel character, h 6 4 0
+
+── [10] id=2953
+ORIGINAL : concept art by jama jurabaev, cel shaded, cinematic shot, trending on artstation, high quality, brush stroke, hyperspace, vibrant colors, portrait of a beautiful nordic woman wearing british royal clothes
+  subject         : portrait of a beautiful nordic woman wearing british royal clothes
+  subj+Magic      : portrait of a beautiful nordic woman wearing british royal clothes, hyperspace
+

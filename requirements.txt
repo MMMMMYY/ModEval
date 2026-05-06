@@ -1,0 +1,40 @@
+# ──────────────────────────────────────────────────────────────────
+# ModEval — top-level dependency manifest
+# This file is the union of exp_rq1/requirements.txt and
+# exp_rq2/requirements.txt, sufficient to run the full pipeline.
+# Tested with Python 3.10 / CUDA 12.1 / PyTorch 2.3.
+# ──────────────────────────────────────────────────────────────────
+
+# ── Core scientific stack ─────────────────────────────────────────
+numpy>=1.26.0
+scipy>=1.13.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+scikit-learn>=1.4.0
+scikit-image>=0.24.0      # SSIM
+seaborn>=0.13.0
+
+# ── Deep-learning backbone ────────────────────────────────────────
+torch>=2.3.0
+torchvision>=0.18.0
+accelerate>=0.33.0
+
+# ── HuggingFace ecosystem ─────────────────────────────────────────
+transformers>=4.44.0
+diffusers>=0.30.0
+sentence-transformers>=2.7.0
+datasets>=2.20.0
+huggingface_hub>=0.24.0
+Pillow>=10.4.0
+
+# ── Image similarity / perceptual metrics ─────────────────────────
+lpips>=0.1.4
+clean-fid>=0.1.35
+open-clip-torch>=2.26.1   # used by Q16 backend
+
+# ── NSFW / safety classifiers ─────────────────────────────────────
+nudenet>=3.4.2
+
+# ── Dataset / IO ──────────────────────────────────────────────────
+jsonlines>=4.0.0
+tqdm>=4.66.0

@@ -1,0 +1,278 @@
+25 sampled prompts for Section 4.3 image generation experiments
+======================================================================
+
+── [01] id=49827  type=portrait
+ORIGINAL : Hyperrealistic close-up portrait of The angel of death young woman, D&D, fantasy, intricate, elegant, highly detailed, digital painting, trending artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+  subject         : portrait of The angel of death young woman
+  subj+Quality    : portrait of The angel of death young woman, Hyperrealistic, close-up, intricate, highly detailed, co…
+  subj+Artist     : portrait of The angel of death young woman, art by artgerm and greg rutkowski and alphonse mucha
+  subj+Atmosphere : portrait of The angel of death young woman, elegant
+  subj+Trending   : portrait of The angel of death young woman, trending artstation
+  subj+Medium     : portrait of The angel of death young woman, digital painting, illustration
+  subj+Movement   : portrait of The angel of death young woman, D&D, fantasy
+  subj+all        : portrait of The angel of death young woman, Hyperrealistic, close-up, intricate, highly detailed, co…
+
+── [02] id=58270  type=portrait
+ORIGINAL : symmetry!! portrait of woman with seal features in the style of horizon zero dawn, machine face, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k
+  subject         : portrait of woman with seal features
+  subj+Quality    : portrait of woman with seal features, intricate, highly detailed, concept art, smooth, sharp focus, …
+  subj+Artist     : portrait of woman with seal features, art by artgerm and greg rutkowski and alphonse mucha
+  subj+Atmosphere : portrait of woman with seal features, machine face, elegant
+  subj+Trending   : portrait of woman with seal features, artstation
+  subj+Medium     : portrait of woman with seal features, digital painting, illustration
+  subj+Movement   : portrait of woman with seal features, in the style of horizon zero dawn
+  subj+all        : portrait of woman with seal features, intricate, highly detailed, concept art, smooth, sharp focus, …
+
+── [03] id=2467  type=portrait
+ORIGINAL : twitch streamer ItsSliker as a Greek god, gorgeous, amazing, muscular, fit, very muscular male body, intricate, highly detailed, digital painting, artstation, concept art, sharp focus, illustration, art by greg rutkowski and alphonse mucha
+  subject         : twitch streamer ItsSliker as a
+  subj+Quality    : twitch streamer ItsSliker as a, muscular, fit, very muscular, male body, intricate, highly detailed,…
+  subj+Artist     : twitch streamer ItsSliker as a, art by greg rutkowski and alphonse mucha
+  subj+Atmosphere : twitch streamer ItsSliker as a, gorgeous, amazing
+  subj+Trending   : twitch streamer ItsSliker as a, artstation
+  subj+Medium     : twitch streamer ItsSliker as a, digital painting, illustration
+  subj+Movement   : twitch streamer ItsSliker as a, Greek god
+  subj+all        : twitch streamer ItsSliker as a, muscular, fit, very muscular, male body, intricate, highly detailed,…
+
+── [04] id=64362  type=portrait
+ORIGINAL : redhead girl in ornate black dress, vogue, glowing eyes, character concept, angry light, dark mood, realistic body features and face, illustration, painting oil on canvas by Ayami Kojima and Tomoyuki Yamasaki and Tsutomu Nihei, octane render trending on artstation, 4k, 8k, HD
+  subject         : redhead girl in ornate black dress
+  subj+Quality    : redhead girl in ornate black dress, character concept, realistic body features and face, octane rend…
+  subj+Artist     : redhead girl in ornate black dress, by Ayami Kojima and Tomoyuki Yamasaki and Tsutomu Nihei
+  subj+Atmosphere : redhead girl in ornate black dress, glowing eyes, angry light, dark mood
+  subj+Trending   : redhead girl in ornate black dress, trending on artstation
+  subj+Medium     : redhead girl in ornate black dress, illustration, painting oil on canvas
+  subj+Movement   : redhead girl in ornate black dress, vogue
+  subj+all        : redhead girl in ornate black dress, character concept, realistic body features and face, octane rend…
+
+── [05] id=32384  type=portrait
+ORIGINAL : symmetry portrait of princess sorcerer, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k, inspired by lord of the rings, arcane
+  subject         : portrait of princess sorcerer
+  subj+Quality    : portrait of princess sorcerer, symmetry, intricate, highly detailed, concept art, smooth, sharp focu…
+  subj+Artist     : portrait of princess sorcerer, art by artgerm and greg rutkowski and alphonse mucha
+  subj+Atmosphere : portrait of princess sorcerer, elegant, arcane
+  subj+Trending   : portrait of princess sorcerer, artstation
+  subj+Medium     : portrait of princess sorcerer, digital painting, illustration
+  subj+Movement   : portrait of princess sorcerer, inspired by lord of the rings
+  subj+all        : portrait of princess sorcerer, symmetry, intricate, highly detailed, concept art, smooth, sharp focu…
+
+── [06] id=66736  type=landscape
+ORIGINAL : legendary elegant gnome hold map and feel confuse in forest,, highly detailed, d & d, fantasy, highly detailed, digital painting, trending on artstation, concept art, sharp focus, illustration, global illumination, ray tracing, realistic shaded, art by artgerm and greg rutkowski and fuji choko and viktoria gavrilenko and hoang lap
+  subject         : gnome hold map and feel confuse in forest, tailed
+  subj+Quality    : gnome hold map and feel confuse in forest, tailed, legendary, highly detailed, highly detailed, conc…
+  subj+Artist     : gnome hold map and feel confuse in forest, tailed, art by artgerm and greg rutkowski and fuji choko …
+  subj+Atmosphere : gnome hold map and feel confuse in forest, tailed, elegant
+  subj+Trending   : gnome hold map and feel confuse in forest, tailed, trending on artstation
+  subj+Medium     : gnome hold map and feel confuse in forest, tailed, digital painting, illustration
+  subj+Movement   : gnome hold map and feel confuse in forest, tailed, d & d, fantasy
+  subj+all        : gnome hold map and feel confuse in forest, tailed, legendary, highly detailed, highly detailed, conc…
+
+── [07] id=51928  type=landscape
+ORIGINAL : a beautiful dancer with black hair in 1920's fashion, living room background, intricate, highly detailed, digital painting, artstation, official media, anime key visual, concept art, rich vivid colors, ambient lighting, sharp focus, illustration, art by Artgerm, Makoto Shinkai, Ilya Kuvshinov, Lois Van Baarle, and Rossdraws
+  subject         : a beautiful dancer with black hair in, living room background
+  subj+Quality    : a beautiful dancer with black hair in, living room background, intricate, highly detailed, official …
+  subj+Artist     : a beautiful dancer with black hair in, living room background, art by Artgerm, Makoto Shinkai, Ilya …
+  subj+Atmosphere : a beautiful dancer with black hair in, living room background, ambient lighting
+  subj+Trending   : a beautiful dancer with black hair in, living room background, artstation
+  subj+Medium     : a beautiful dancer with black hair in, living room background, digital painting, illustration
+  subj+Movement   : a beautiful dancer with black hair in, living room background, 1920's fashion, anime key visual
+  subj+all        : a beautiful dancer with black hair in, living room background, intricate, highly detailed, official …
+
+── [08] id=2716  type=landscape
+ORIGINAL : legendary elegant gnome fishing in lake, highly detailed, d & d, fantasy, highly detailed, digital painting, trending on artstation, concept art, sharp focus, illustration, global illumination, ray tracing, realistic shaded, art by artgerm and greg rutkowski and fuji choko and viktoria gavrilenko and hoang lap
+  subject         : gnome fishing in lake, tailed
+  subj+Quality    : gnome fishing in lake, tailed, highly detailed, highly detailed, concept art, sharp focus, global il…
+  subj+Artist     : gnome fishing in lake, tailed, art by artgerm and greg rutkowski and fuji choko and viktoria gavrile…
+  subj+Atmosphere : gnome fishing in lake, tailed, legendary, elegant
+  subj+Trending   : gnome fishing in lake, tailed, trending on artstation
+  subj+Medium     : gnome fishing in lake, tailed, digital painting, illustration
+  subj+Movement   : gnome fishing in lake, tailed, d & d, fantasy
+  subj+all        : gnome fishing in lake, tailed, highly detailed, highly detailed, concept art, sharp focus, global il…
+
+── [09] id=58911  type=landscape
+ORIGINAL : portrait of harley quinn, cloudy sky background lush landscape illustration concept art anime key visual trending pixiv fanbox by wlop and greg rutkowski and makoto shinkai and studio ghibli
+  subject         : portrait of harley quinn
+  subj+Quality    : portrait of harley quinn, concept art, key visual
+  subj+Artist     : portrait of harley quinn, by wlop, and greg rutkowski, and makoto shinkai, and studio ghibli
+  subj+Atmosphere : portrait of harley quinn, cloudy sky background, lush landscape
+  subj+Trending   : portrait of harley quinn, trending, pixiv, fanbox
+  subj+Medium     : portrait of harley quinn, illustration
+  subj+Movement   : portrait of harley quinn, anime
+  subj+all        : portrait of harley quinn, concept art, key visual, by wlop, and greg rutkowski, and makoto shinkai, …
+
+── [10] id=52600  type=landscape
+ORIGINAL : emma watson as magic healer celestial, long hair, white and transparent cloth, space, D&D, shiny background, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, artgerm, bouguereau
+  subject         : emma watson as magic healer celestial
+  subj+Quality    : emma watson as magic healer celestial, long hair, white and transparent cloth, shiny background, int…
+  subj+Artist     : emma watson as magic healer celestial, artgerm, bouguereau
+  subj+Atmosphere : emma watson as magic healer celestial, space, elegant
+  subj+Trending   : emma watson as magic healer celestial, artstation
+  subj+Medium     : emma watson as magic healer celestial, digital painting, illustration
+  subj+Movement   : emma watson as magic healer celestial, D&D
+  subj+all        : emma watson as magic healer celestial, long hair, white and transparent cloth, shiny background, int…
+
+── [11] id=6558  type=character
+ORIGINAL : looking out a house window on a cliff, fishing supplies on shelf near window, wide angle, sunset, a mediterranean phoenician fishing village below, over a chalk cliff, highly detailed, digital painting, artstation, concept art, sharp focus, illustration, art by artgerm and greg rutkowski and raphael lacoste and magali villeneuve
+  subject         : looking out a house window on a cliff, fishing supplies on shelf near window
+  subj+Quality    : looking out a house window on a cliff, fishing supplies on shelf near window, wide angle, highly det…
+  subj+Artist     : looking out a house window on a cliff, fishing supplies on shelf near window, art by artgerm and gre…
+  subj+Atmosphere : looking out a house window on a cliff, fishing supplies on shelf near window, sunset, below, over a …
+  subj+Trending   : looking out a house window on a cliff, fishing supplies on shelf near window, artstation
+  subj+Medium     : looking out a house window on a cliff, fishing supplies on shelf near window, digital painting, illu…
+  subj+Movement   : looking out a house window on a cliff, fishing supplies on shelf near window, a mediterranean phoeni…
+  subj+all        : looking out a house window on a cliff, fishing supplies on shelf near window, wide angle, highly det…
+
+── [12] id=18131  type=character
+ORIGINAL : anthropomorphic mecha - orc protoengineer biohacker, intricate, elegant, highly detailed animal monster, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, 8 k
+  subject         : anthropomorphic mecha - orc protoengineer biohacker
+  subj+Quality    : anthropomorphic mecha - orc protoengineer biohacker, intricate, highly detailed, concept art, smooth…
+  subj+Artist     : anthropomorphic mecha - orc protoengineer biohacker, art by artgerm and greg rutkowski and alphonse …
+  subj+Atmosphere : anthropomorphic mecha - orc protoengineer biohacker, elegant
+  subj+Trending   : anthropomorphic mecha - orc protoengineer biohacker, artstation
+  subj+Medium     : anthropomorphic mecha - orc protoengineer biohacker, digital painting, illustration
+  subj+Movement   : anthropomorphic mecha - orc protoengineer biohacker, animal monster
+  subj+all        : anthropomorphic mecha - orc protoengineer biohacker, intricate, highly detailed, concept art, smooth…
+
+── [13] id=16257  type=character
+ORIGINAL : Portrait of a Fantasy turquoise knight, moonlit, HD, illustration, epic, D&D, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha, monster hunter illustrations art book
+  subject         : Portrait of a Fantasy turquoise knight, illustration
+  subj+Quality    : Portrait of a Fantasy turquoise knight, illustration, HD, intricate, highly detailed, concept art, s…
+  subj+Artist     : Portrait of a Fantasy turquoise knight, illustration, art by artgerm and greg rutkowski and alphonse…
+  subj+Atmosphere : Portrait of a Fantasy turquoise knight, illustration, moonlit, epic, elegant
+  subj+Trending   : Portrait of a Fantasy turquoise knight, illustration, artstation
+  subj+Medium     : Portrait of a Fantasy turquoise knight, illustration, illustration, digital painting, illustration
+  subj+Movement   : Portrait of a Fantasy turquoise knight, illustration, D&D, fantasy, monster hunter illustrations art…
+  subj+all        : Portrait of a Fantasy turquoise knight, illustration, HD, intricate, highly detailed, concept art, s…
+
+── [14] id=11035  type=character
+ORIGINAL : a highly detailed matte painting of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupiter, sci fi and fantasy, viewed in profile from far away, crackling black lightning, ultrawide lens, art by artgerm and greg rutkowski and alphonse mucha, volumetric lighting, octane render, 4 k resolution, trending on artstation, masterpiece
+  subject         : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+  subj+Quality    : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+  subj+Artist     : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+  subj+Atmosphere : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+  subj+Trending   : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+  subj+Medium     : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+  subj+Movement   : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+  subj+all        : a of a red haired vampire sorceress, drinking wine, standing in a space station and looking at jupit…
+
+── [15] id=53395  type=character
+ORIGINAL : A werewolf fighting a group of knights, gothic, horror, dark, intense, detailed, digital painting, artstation, concept art, by Barret Frymire
+  subject         : A werewolf fighting a group of knights
+  subj+Quality    : A werewolf fighting a group of knights, detailed, concept art
+  subj+Artist     : A werewolf fighting a group of knights, by Barret Frymire
+  subj+Atmosphere : A werewolf fighting a group of knights, dark, intense
+  subj+Trending   : A werewolf fighting a group of knights, artstation
+  subj+Medium     : A werewolf fighting a group of knights, digital painting
+  subj+Movement   : A werewolf fighting a group of knights, gothic, horror
+  subj+all        : A werewolf fighting a group of knights, detailed, concept art, by Barret Frymire, dark, intense, art…
+
+── [16] id=68837  type=object
+ORIGINAL : ocean of canvas that catches fire, magical, concept art, art nouveau, inspired by Reylia Slaby, Peter Gric, trending on artstation, volumetric lighting, intricate, ornate, CGsociety: 3, hypermaximalist, octane render, micro details, 3d sculpture, ray tracing, 8kjpeg artifacts, dof, blur, text:-1
+  subject         : ocean of canvas that catches fire
+  subj+Quality    : ocean of canvas that catches fire, concept art, intricate, hypermaximalist, octane render, micro det…
+  subj+Artist     : ocean of canvas that catches fire, inspired by Reylia Slaby, Peter Gric
+  subj+Atmosphere : ocean of canvas that catches fire, volumetric lighting, ornate
+  subj+Trending   : ocean of canvas that catches fire, trending on artstation, CGsociety: 3
+  subj+Medium     : ocean of canvas that catches fire, 3d sculpture
+  subj+Movement   : ocean of canvas that catches fire, art nouveau
+  subj+all        : ocean of canvas that catches fire, concept art, intricate, hypermaximalist, octane render, micro det…
+
+── [17] id=31293  type=object
+ORIGINAL : a giant statue of zeus mecha, lightning, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola, trending on artstation, cinematic composition, beautiful lighting, hyper detailed, 8 k, oil on canvas
+  subject         : a giant statue of zeus
+  subj+Quality    : a giant statue of zeus, cinematic composition, hyper detailed, 8 k
+  subj+Artist     : a giant statue of zeus, tim hildebrandt, wayne barlowe, bruce pennington, donato giancola
+  subj+Atmosphere : a giant statue of zeus, lightning, beautiful lighting
+  subj+Trending   : a giant statue of zeus, trending on artstation
+  subj+Medium     : a giant statue of zeus, oil on canvas
+  subj+Movement   : a giant statue of zeus, mecha
+  subj+all        : a giant statue of zeus, cinematic composition, hyper detailed, 8 k, tim hildebrandt, wayne barlowe, …
+
+── [18] id=27904  type=object
+ORIGINAL : sadie sink robotic brothel in hood smashing people, realism, wet, shiny, fantasy, intricate, elegant, extremely higly detailed, ultra definition, digital painting, artstation, anatomical perfect, baroque, full body perfect, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+  subject         : sadie sink robotic brothel in hood smashing people
+  subj+Quality    : sadie sink robotic brothel in hood smashing people, intricate, extremely higly detailed, ultra defin…
+  subj+Artist     : sadie sink robotic brothel in hood smashing people, art by artgerm and greg rutkowski and alphonse m…
+  subj+Atmosphere : sadie sink robotic brothel in hood smashing people, wet, shiny, elegant
+  subj+Trending   : sadie sink robotic brothel in hood smashing people, artstation
+  subj+Medium     : sadie sink robotic brothel in hood smashing people, digital painting, illustration
+  subj+Movement   : sadie sink robotic brothel in hood smashing people, realism, fantasy, baroque
+  subj+all        : sadie sink robotic brothel in hood smashing people, intricate, extremely higly detailed, ultra defin…
+
+── [19] id=13124  type=object
+ORIGINAL : a Shiba Inu walking through an ancient egyptian temple, dreamlike atmosphere, symmetrical baroque painting, perfect composition, beautiful detailed intricate high detailed octane trending on Artstation, 8K fine art photography, photorealistic, soft natural volumetric cinematic perfect light , chiaroscuro, award- winning photography, masterpiece, Raphael, Caravaggio, Greg Rutkowski, Beeple
+  subject         : a Shiba Inu walking through an ancient egyptian temple, award- winning photography
+  subj+Quality    : a Shiba Inu walking through an ancient egyptian temple, award- winning photography, perfect composit…
+  subj+Artist     : a Shiba Inu walking through an ancient egyptian temple, award- winning photography, Raphael, Caravag…
+  subj+Atmosphere : a Shiba Inu walking through an ancient egyptian temple, award- winning photography, dreamlike atmosp…
+  subj+Trending   : a Shiba Inu walking through an ancient egyptian temple, award- winning photography, trending on Arts…
+  subj+Medium     : a Shiba Inu walking through an ancient egyptian temple, award- winning photography, fine art photogr…
+  subj+Movement   : a Shiba Inu walking through an ancient egyptian temple, award- winning photography, symmetrical baro…
+  subj+all        : a Shiba Inu walking through an ancient egyptian temple, award- winning photography, perfect composit…
+
+── [20] id=51129  type=object
+ORIGINAL : interior of a alien spaceship, heroic lighting, sci-fi, intricate, elegant, highly detailed, lifelike, photorealistic, digital painting, artstation, illustration, concept art, smooth, sharp focus, art by John Collier and Albert Aublet and Krenz Cushart and Artem Demura and Alphonse Mucha
+  subject         : interior of a alien spaceship
+  subj+Quality    : interior of a alien spaceship, intricate, highly detailed, lifelike, photorealistic, concept art, sm…
+  subj+Artist     : interior of a alien spaceship, art by John Collier and Albert Aublet and Krenz Cushart and Artem Dem…
+  subj+Atmosphere : interior of a alien spaceship, heroic lighting, elegant
+  subj+Trending   : interior of a alien spaceship, artstation
+  subj+Medium     : interior of a alien spaceship, digital painting, illustration
+  subj+Movement   : interior of a alien spaceship, sci-fi
+  subj+all        : interior of a alien spaceship, intricate, highly detailed, lifelike, photorealistic, concept art, sm…
+
+── [21] id=34074  type=abstract
+ORIGINAL : colossal fluffy micro organism, by alex grey, fantasy, vivid colors, sharp focus, digital art, hyper - realistic, 4 k, unreal engine, highly detailed, hd, dramatic lighting by brom, trending on artstation
+  subject         : colossal fluffy micro organism
+  subj+Quality    : colossal fluffy micro organism, sharp focus, hyper - realistic, 4 k, unreal engine, highly detailed,…
+  subj+Artist     : colossal fluffy micro organism, by alex grey, by brom
+  subj+Atmosphere : colossal fluffy micro organism, vivid colors, dramatic lighting
+  subj+Trending   : colossal fluffy micro organism, trending on artstation
+  subj+Medium     : colossal fluffy micro organism, digital art
+  subj+Movement   : colossal fluffy micro organism, fantasy
+  subj+all        : colossal fluffy micro organism, sharp focus, hyper - realistic, 4 k, unreal engine, highly detailed,…
+
+── [22] id=2214  type=abstract
+ORIGINAL : a ferret dressed as a jester, d & d, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, hearthstone, art by artgerm and greg rutkowski and alphonse mucha
+  subject         : a ferret dressed as a jester
+  subj+Quality    : a ferret dressed as a jester, intricate, highly detailed, concept art, sharp focus
+  subj+Artist     : a ferret dressed as a jester, art by artgerm and greg rutkowski and alphonse mucha
+  subj+Atmosphere : a ferret dressed as a jester, elegant
+  subj+Trending   : a ferret dressed as a jester, artstation, hearthstone
+  subj+Medium     : a ferret dressed as a jester, digital painting, matte, illustration
+  subj+Movement   : a ferret dressed as a jester, d & d, fantasy
+  subj+all        : a ferret dressed as a jester, intricate, highly detailed, concept art, sharp focus, art by artgerm a…
+
+── [23] id=120  type=abstract
+ORIGINAL : eighties lionel richie as a zombie, 7 days to die zombie, fine art, award winning, intricate, elegant, sharp focus, cinematic lighting, highly detailed, digital painting, 8 k concept art, art by guweiz and z. w. gu, masterpiece, trending on artstation, 8 k
+  subject         : eighties lionel richie as a zombie, 8 k
+  subj+Quality    : eighties lionel richie as a zombie, 8 k, fine art, award winning, intricate, sharp focus, highly det…
+  subj+Artist     : eighties lionel richie as a zombie, 8 k, art by guweiz and z. w. gu
+  subj+Atmosphere : eighties lionel richie as a zombie, 8 k, elegant, cinematic lighting
+  subj+Trending   : eighties lionel richie as a zombie, 8 k, trending on artstation
+  subj+Medium     : eighties lionel richie as a zombie, 8 k, digital painting
+  subj+Movement   : eighties lionel richie as a zombie, 8 k, 7 days to die zombie
+  subj+all        : eighties lionel richie as a zombie, 8 k, fine art, award winning, intricate, sharp focus, highly det…
+
+── [24] id=31704  type=abstract
+ORIGINAL : Winnie the Pooh as a murderer, D&D style, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp focus, illustration, art by Artgerm and Greg Rutkowski and Alphonse Mucha
+  subject         : Winnie the Pooh as a murderer
+  subj+Quality    : Winnie the Pooh as a murderer, intricate, highly detailed, concept art, sharp focus
+  subj+Artist     : Winnie the Pooh as a murderer, art by Artgerm and Greg Rutkowski and Alphonse Mucha
+  subj+Atmosphere : Winnie the Pooh as a murderer, elegant
+  subj+Trending   : Winnie the Pooh as a murderer, artstation
+  subj+Medium     : Winnie the Pooh as a murderer, digital painting, matte, illustration
+  subj+Movement   : Winnie the Pooh as a murderer, D&D style, fantasy
+  subj+all        : Winnie the Pooh as a murderer, intricate, highly detailed, concept art, sharp focus, art by Artgerm …
+
+── [25] id=54015  type=abstract
+ORIGINAL : Hatsune miku drinking a beer. visibly drunk. sci-fi, modern, colourful!! highly detailed, digital painting, artstation, concept art, sharp focus, illustration, by greg rutkowski
+  subject         : Hatsune miku drinking a beer
+  subj+Quality    : Hatsune miku drinking a beer, highly detailed, concept art, sharp focus
+  subj+Artist     : Hatsune miku drinking a beer, by greg rutkowski
+  subj+Atmosphere : Hatsune miku drinking a beer, colourful, visibly drunk
+  subj+Trending   : Hatsune miku drinking a beer, artstation
+  subj+Medium     : Hatsune miku drinking a beer, digital painting, illustration
+  subj+Movement   : Hatsune miku drinking a beer, sci-fi, modern
+  subj+all        : Hatsune miku drinking a beer, highly detailed, concept art, sharp focus, by greg rutkowski, colourfu…
+

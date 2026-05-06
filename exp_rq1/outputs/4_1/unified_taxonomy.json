@@ -1,0 +1,138 @@
+{
+  "Medium": {
+    "cluster_id": 5,
+    "members": [
+      {
+        "id": "CI_Medium",
+        "source": "CLIP Interrogator",
+        "original_name": "Medium",
+        "description": "artistic medium or material used in image creation"
+      },
+      {
+        "id": "LC_TechMedium",
+        "source": "Liu & Chilton",
+        "original_name": "Technical medium",
+        "description": "physical or digital artistic medium and technique"
+      }
+    ]
+  },
+  "Artist": {
+    "cluster_id": 4,
+    "members": [
+      {
+        "id": "CI_Artist",
+        "source": "CLIP Interrogator",
+        "original_name": "Artist",
+        "description": "named artist whose style directs the visual output"
+      },
+      {
+        "id": "OP_Style",
+        "source": "Oppenlaender",
+        "original_name": "Style modifiers",
+        "description": "modifier specifying an artistic style such as a named artist or artistic medium"
+      },
+      {
+        "id": "LC_ArtisticStyle",
+        "source": "Liu & Chilton",
+        "original_name": "Artistic style",
+        "description": "named artist or art movement style keyword"
+      },
+      {
+        "id": "HA_Stylistic",
+        "source": "Hao et al.",
+        "original_name": "Stylistic descriptors",
+        "description": "style modifier token including artist references and style names"
+      }
+    ]
+  },
+  "Movement": {
+    "cluster_id": 6,
+    "members": [
+      {
+        "id": "CI_Movement",
+        "source": "CLIP Interrogator",
+        "original_name": "Movement",
+        "description": "artistic movement or historical style school"
+      }
+    ]
+  },
+  "Trending": {
+    "cluster_id": 7,
+    "members": [
+      {
+        "id": "CI_Trending",
+        "source": "CLIP Interrogator",
+        "original_name": "Trending",
+        "description": "platform or community aesthetic standard signalling contemporary visual popularity"
+      }
+    ]
+  },
+  "Quality": {
+    "cluster_id": 2,
+    "members": [
+      {
+        "id": "CI_Flavor",
+        "source": "CLIP Interrogator",
+        "original_name": "Flavor",
+        "description": "stylistic or thematic detail adding richness and precision"
+      },
+      {
+        "id": "OP_Quality",
+        "source": "Oppenlaender",
+        "original_name": "Quality boosters",
+        "description": "modifier indicating desired image quality or level of detail"
+      },
+      {
+        "id": "LC_QualityTerms",
+        "source": "Liu & Chilton",
+        "original_name": "Quality terms",
+        "description": "technical keyword controlling detail, resolution, or rendering quality"
+      },
+      {
+        "id": "HA_Quality",
+        "source": "Hao et al.",
+        "original_name": "Quality enhancers",
+        "description": "quality modifier token improving technical fidelity and aesthetic appeal"
+      }
+    ]
+  },
+  "Magic": {
+    "cluster_id": 8,
+    "members": [
+      {
+        "id": "OP_Magic",
+        "source": "Oppenlaender",
+        "original_name": "Magic terms",
+        "description": "evocative or mystical term introducing creative unpredictability"
+      }
+    ]
+  },
+  "Repeating": {
+    "cluster_id": 3,
+    "members": [
+      {
+        "id": "OP_Repeating",
+        "source": "Oppenlaender",
+        "original_name": "Repeating terms",
+        "description": "word or phrase repeated to intensify a particular quality"
+      }
+    ]
+  },
+  "Atmosphere": {
+    "cluster_id": 1,
+    "members": [
+      {
+        "id": "LC_AestheticDesc",
+        "source": "Liu & Chilton",
+        "original_name": "Aesthetic descriptors",
+        "description": "atmospheric or mood-related keyword evoking emotional quality"
+      },
+      {
+        "id": "HA_Thematic",
+        "source": "Hao et al.",
+        "original_name": "Thematic/mood terms",
+        "description": "thematic or atmosphere token establishing emotional tone and narrative mood"
+      }
+    ]
+  }
+}
