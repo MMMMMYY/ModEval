@@ -1,21 +1,35 @@
-MIT License
+Review-Only License
 
-Copyright (c) 2026 Anonymous Authors (NeurIPS 2026 Submission)
+Copyright (c) 2026 Anonymous Authors
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software, data, scripts, and associated documentation files (collectively,
+the "Materials") are provided solely as anonymized supplementary materials for
+the purpose of peer review of a NeurIPS 2026 submission.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted to reviewers and authorized conference personnel to
+access, download, inspect, and run the Materials only for the purpose of
+evaluating the associated submission during the peer review process.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+No permission is granted to copy, modify, merge, publish, distribute,
+sublicense, sell, publicly release, or otherwise use the Materials for any
+purpose outside the peer review process.
+
+The Materials may not be shared with any third party, incorporated into another
+project, used to train or improve any model or system, or used for commercial
+purposes.
+
+This license is temporary and limited to the duration of the peer review
+process. All rights not expressly granted are reserved by the Anonymous Authors.
+
+The Materials may include or depend on third-party assets, including code,
+datasets, models, or software packages. Such third-party assets remain subject
+to their respective licenses and terms of use, as documented separately where
+applicable.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN THE
+MATERIALS.
