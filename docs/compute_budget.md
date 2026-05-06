@@ -4,9 +4,7 @@ This document estimates the compute required to reproduce each stage of the
 ModEval pipeline. It is intended for the NeurIPS 2026 reproducibility
 checklist and to help reviewers gauge feasibility.
 
-All wall-time numbers are reported on a single **NVIDIA H100 80 GB** unless
-otherwise noted; the same workloads run on an A100 40 GB will take roughly
-1.7× longer.
+All wall-time numbers are reported on a single **NVIDIA A6000 48 GB**.
 
 ---
 

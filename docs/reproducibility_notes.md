@@ -12,14 +12,13 @@ shipped frozen data:
 
 - **All figures and tables in the paper.** Running `bash run_all_figures.sh`
   re-renders every figure and table from frozen CSVs / JSONs under
-  `exp_rq1/outputs/` and `exp_rq2/outputs/`. No randomness; no GPU required.
+  `exp_rq1/outputs/` and `exp_rq2/outputs/`. 
 - **Statistical aggregation** (χ², Cramér's V, Fisher exact, Wilcoxon,
   paired t-test, MSCS one-sample t-test). Pure NumPy / SciPy, fully
   deterministic given inputs.
 - **Cross-dimension synthesis** (Figure 4). The plotting script
   `figures_repro/5_4_cross_risk/plot_figure10.py` reads the three upstream
-  CSVs live and prints a verification table to stdout; no values are
-  hard-coded.
+  CSVs live and prints a verification table to stdout.
 
 ## What has controlled stochasticity
 
@@ -54,7 +53,7 @@ patterns and the qualitative ranking of categories within each dimension are
 stable to seed variation across our internal re-runs (Cramér's V̄ moves by
 < 0.01, ΔDDR / Δrate move by < 2 percentage points).
 
-## Plan-B release (this repository)
+## Responsible Artifact Release
 
 We do **not** redistribute the raw generated images, in line with the
 "Responsible Artifact Release" statement in the paper:
@@ -71,16 +70,16 @@ We do **not** redistribute the raw generated images, in line with the
 
 ## Hardware / software environment we tested against
 
-| Component | Version |
-|-----------|---------|
-| OS | Ubuntu 22.04 LTS |
-| Python | 3.10.12 |
-| CUDA | 12.1 |
-| cuDNN | 8.9 |
-| PyTorch | 2.3.0 |
-| transformers | 4.44.0 |
-| diffusers | 0.30.0 |
-| GPU | NVIDIA H100 80 GB (also tested on A100 40 GB) |
+| Component | Version           |
+|-----------|-------------------|
+| OS | Ubuntu 22.04 LTS  |
+| Python | 3.10.12           |
+| CUDA | 12.1              |
+| cuDNN | 8.9               |
+| PyTorch | 2.3.0             |
+| transformers | 4.44.0            |
+| diffusers | 0.30.0            |
+| GPU | NVIDIA A6000 48GB |
 
 ## Known sources of small drift
 
